@@ -6,3 +6,4 @@ export function es5(cb) {
 
 export function es6() {
 }
+//Skip
